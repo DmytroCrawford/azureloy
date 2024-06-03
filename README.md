@@ -1,3 +1,8 @@
+# AzureLoy
+A new way to optimize your azure workflow
+![DALL·E 2024-06-02 21 18 52 - A whimsical scene shot from below looking up into a tech logo that is the letter 'A', floating among translucent, colorful toy-like objects in a brigh](https://github.com/DmytroCrawford/azureloy/assets/74217403/a96a3b87-7c6c-4757-afc1-2d745f639063)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
